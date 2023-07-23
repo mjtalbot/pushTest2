@@ -1,3 +1,1 @@
-hello
-you 
-too
+foo\nboo
